@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/menezesDev83/menezesDev83/output/github-snake.svg)
 
 ###
